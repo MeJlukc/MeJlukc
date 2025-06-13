@@ -1,7 +1,7 @@
 ## Hi there 👋
 I’m a beginner Frontend-Developer
 
-## 🤔 About
+## 🧐 About
 **Hard skills:**  
 - JavaScript (ES6+)
 - HTML5
@@ -13,7 +13,7 @@ I’m a beginner Frontend-Developer
 Worked in: Visual Studio, VS Code, Chrome DevTools, Unix
 
 **Soft Skills:**
-
+I seek to upgrade my skills and get experience. Purpoce, desire to study, work in team - It’s all about me.
 <!--
 **MeJlukc/MeJlukc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
