@@ -12,8 +12,13 @@ I’m a beginner Frontend-Developer
 
 Worked in: Visual Studio, VS Code, Chrome DevTools, Unix
 
-**Soft Skills:**
-I seek to upgrade my skills and get experience. Purpoce, desire to study, work in team - It’s all about me.
+**Soft Skills:**  
+I seek to upgrade my skills and get experience. Purpoce, desire to study, work in team - It’s about me
+
+**My projects:**
+- [BrainGames](https://github.com/MeJlukc/frontend-project-44). It's my first project on JS. Include 5 mathematical mini-games
+- [Difference Calculator](https://github.com/MeJlukc/frontend-project-46). The utility to compare two files and gets difference
+- [Student Project](https://github.com/MeJlukc/PracticeTask3_Console). Project for C# study
 <!--
 **MeJlukc/MeJlukc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
