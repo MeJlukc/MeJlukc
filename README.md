@@ -13,7 +13,7 @@ I’m a beginner Frontend-Developer
 Worked in: Visual Studio, VS Code, Chrome DevTools, Unix
 
 **Soft Skills:**  
-I seek to upgrade my skills and get experience. Purpoce, desire to study, work in team - It’s about me
+I seek to upgrade my skills and get experience. Purpoce, desire to study, work in team - It’s about me;)
 
 **My projects:**
 - [BrainGames](https://github.com/MeJlukc/frontend-project-44). It's my first project on JS. Include 5 mathematical mini-games
