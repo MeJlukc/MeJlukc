@@ -14,15 +14,17 @@ Also you can contact me in Telegram: @YarikSoiluk
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Unix/Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
 </p>
 
-- JavaScript (ES6+)  
-- HTML5  
-- CSS3 (Flexbox, Grid, Responsive Design)
+- **JavaScript (ES6+)**  
+- **HTML5**  
+- **CSS3** (Flexbox, Grid, Responsive Design)
 - React.js  
 - Tailwind CSS (basic experience, not in depth)  
 - Git (version control, branching, merging)  
 - Unix/Linux
+- VS Code (main development environment)
 
 ## 🤝 Soft Skills  
 
@@ -36,11 +38,10 @@ Also you can contact me in Telegram: @YarikSoiluk
 
 Here you can find some of my projects:  
 
-- [BrainGames](https://github.com/MeJlukc/frontend-project-44). It's my first project on JS. Include 5 mathematical mini-games
+- [BrainGames](https://github.com/MeJlukc/frontend-project-44). My first project on JS. Include 5 mathematical mini-games
 - [Difference Calculator](https://github.com/MeJlukc/frontend-project-46). The utility to compare two files and gets difference
-- [Student Project](https://github.com/MeJlukc/PracticeTask3_Console). Project for C# study
+- [Student's Project](https://github.com/MeJlukc/PracticeTask3_Console). Project for C# study in college
 
-## 📫 Get in Touch  
 
 <!--
 **MeJlukc/MeJlukc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
