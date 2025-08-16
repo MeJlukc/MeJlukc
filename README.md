@@ -1,7 +1,8 @@
 ## Hi there 👋
 I’m a beginner Frontend-Developer who enjoys building web projects and learning new technologies.  
 
-How to contact me: just send email to solomatin.yarik@mail.ru
+How to contact me: just send email to solomatin.yarik@mail.ru  
+Also you can contact me in Telegram: @YarikSoiluk
 
 ## 🚀 Hard Skills  
 
