@@ -15,9 +15,13 @@ I’m a beginner Frontend-Developer who enjoys building web projects
 - HTML5  
 - CSS3 (Flexbox, Grid, Responsive Design)  
 - Git (version control, branching, merging)  
-- Unix/Linux (command line, shell basics)
+- Unix/Linux
 
 Worked in: Visual Studio, VS Code, Chrome DevTools, Unix
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeJlukc&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeJlukc&layout=compact&theme=tokyonight)  
 
 **Soft Skills:**  
 I seek to upgrade my skills and get experience. Purpoce, desire to study, work in team - It’s about me;)
