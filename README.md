@@ -1,14 +1,21 @@
 ## Hi there 👋
-I’m a beginner Frontend-Developer
+I’m a beginner Frontend-Developer who enjoys building web projects
 
-## 🧐 About
-**Hard skills:**  
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Git and GitHub
-- Auto Testing (Jest)
-- Unix
+## 🚀 Hard Skills  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Unix/Linux"/>
+</p>
+
+- JavaScript (ES6+)  
+- HTML5  
+- CSS3 (Flexbox, Grid, Responsive Design)  
+- Git (version control, branching, merging)  
+- Unix/Linux (command line, shell basics)
 
 Worked in: Visual Studio, VS Code, Chrome DevTools, Unix
 
