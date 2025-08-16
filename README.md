@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m a beginner Frontend-Developer who enjoys building web projects
+I’m a beginner Frontend-Developer who enjoys building web projects and learning new technologies.
 
 ## 🚀 Hard Skills  
 
@@ -21,19 +21,24 @@ I’m a beginner Frontend-Developer who enjoys building web projects
 - Git (version control, branching, merging)  
 - Unix/Linux
 
-Worked in: Visual Studio, VS Code, Chrome DevTools, Unix
+## 🤝 Soft Skills  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeJlukc&show_icons=true&theme=tokyonight)  
+- Problem-solving  
+- Teamwork & communication  
+- Time management  
+- Adaptability  
+- Continuous learning mindset  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeJlukc&layout=compact&theme=tokyonight)  
+## 📂 My Projects  
 
-**Soft Skills:**  
-I seek to upgrade my skills and get experience. Purpoce, desire to study, work in team - It’s about me;)
+Here you can find some of my projects:  
 
-**My projects:**
 - [BrainGames](https://github.com/MeJlukc/frontend-project-44). It's my first project on JS. Include 5 mathematical mini-games
 - [Difference Calculator](https://github.com/MeJlukc/frontend-project-46). The utility to compare two files and gets difference
 - [Student Project](https://github.com/MeJlukc/PracticeTask3_Console). Project for C# study
+
+## 📫 Get in Touch  
+
 <!--
 **MeJlukc/MeJlukc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
