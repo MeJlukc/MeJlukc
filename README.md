@@ -13,18 +13,15 @@ Also you can contact me in Telegram: @YarikSoiluk
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Unix/Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
 </p>
 
-- **JavaScript (ES6+)**  
+- **JavaScript** (ES6+)  
 - **HTML5**  
 - **CSS3** (Flexbox, Grid, Responsive Design)
-- React.js  
-- Tailwind CSS (basic experience, not in depth)  
-- Git (version control, branching, merging)  
-- Unix/Linux
-- VS Code (main development environment)
+- **React**  
+- **Tailwind CSS** (basic experience, not in depth)  
+- **Git** (version control, branching, merging)  
+- **Unix/Linux**
 
 ## 🤝 Soft Skills  
 
