@@ -9,11 +9,15 @@ I’m a beginner Frontend-Developer who enjoys building web projects
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Unix/Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind CSS"/>
 </p>
 
 - JavaScript (ES6+)  
 - HTML5  
-- CSS3 (Flexbox, Grid, Responsive Design)  
+- CSS3 (Flexbox, Grid, Responsive Design)
+- React.js  
+- Tailwind CSS (basic experience, not in depth)  
 - Git (version control, branching, merging)  
 - Unix/Linux
 
