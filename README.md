@@ -1,5 +1,7 @@
 ## Hi there 👋
-I’m a beginner Frontend-Developer who enjoys building web projects and learning new technologies.
+I’m a beginner Frontend-Developer who enjoys building web projects and learning new technologies.  
+
+How to contact me: just send email to <a href="mailto:solomatin.yarik@mail.ru"><p>solomatin.yarik@mail.ru</p></a>
 
 ## 🚀 Hard Skills  
 
