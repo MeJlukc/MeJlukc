@@ -27,7 +27,7 @@ You can also reach me on Telegram: [@YarikSoulik](https://t.me/YarikSoulik)
 
 Here you can find some of my projects:  
 
-- [BrainGames](https://github.com/MeJlukc/frontend-project-44). My first project on JS. Include 5 mathematical mini-games
+- [BrainGames](https://github.com/MeJlukc/frontend-project-44). My first project on JS. Includes 5 mathematical mini-games
 - [Difference Calculator](https://github.com/MeJlukc/frontend-project-46). The utility to compare two files and gets difference
 - [Student's Project](https://github.com/MeJlukc/PracticeTask3_Console). Project for C# study in college
 
