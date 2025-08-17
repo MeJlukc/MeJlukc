@@ -23,14 +23,6 @@ You can also reach me on Telegram: [@YarikSoulik](https://t.me/YarikSoulik)
 - **Git** (version control, branching, merging)  
 - **Unix/Linux**
 
-## 🤝 Soft Skills  
-
-- Problem-solving  
-- Teamwork & communication  
-- Time management  
-- Adaptability  
-- Continuous learning mindset  
-
 ## 📂 My Projects  
 
 Here you can find some of my projects:  
