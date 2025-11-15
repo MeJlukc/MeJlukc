@@ -1,7 +1,7 @@
 ## Hi there 👋
 I’m a beginner Frontend-Developer who enjoys building web projects and learning new technologies  
 
-How to contact me: just send email to solomatin.yarik@mail.ru  
+How to contact me: send email to solomatin.yarik@mail.ru  
 You can also reach me on Telegram: [@YarikSoulik](https://t.me/YarikSoulik)
 
 ## 🚀 Hard Skills  
@@ -12,7 +12,6 @@ You can also reach me on Telegram: [@YarikSoulik](https://t.me/YarikSoulik)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Unix/Linux"/>
 </p>
 
 - **JavaScript** (ES6+)  
@@ -21,7 +20,6 @@ You can also reach me on Telegram: [@YarikSoulik](https://t.me/YarikSoulik)
 - **React**  
 - **Tailwind CSS** (basic experience, not in depth)  
 - **Git** (version control, branching, merging)  
-- **Unix/Linux**
 
 ## 📂 My Projects  
 
